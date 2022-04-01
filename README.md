@@ -1,7 +1,7 @@
 <strong >Hello there👋 I'm Ezekiel Utshudi, But also known as Eazzy-web</strong>
 
 
-I have just currently started learning fullstack web development and I am enjoying it, I have experience in front-end Dev and I would like to contribute to open-source projects and new challenges because I believe learning by doing is the best way.
+I have just currently learning fullstack web development and I am enjoying it, I have experience in front-end Dev and I would like to contribute to open-source projects and new challenges because I believe learning by doing is the best way.
 
 <strong> ABOUT ME :</strong>
 -  Hi, I’m @EzekielUtshudi 
