@@ -20,3 +20,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=EzekielUtshudi&count_private=true&layout=compact&theme=tokyonight" height="175"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzekielUtshudi&layout=compact&theme=tokyonight" height="175"/>
 
+https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857799
+https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857799
