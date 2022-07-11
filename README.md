@@ -5,7 +5,7 @@ I am currently learning fullstack web development with Microverse  and  enjoying
 
 <strong> ABOUT ME :</strong>
 -  Hi, I’m @EzekielUtshudi 
-- 👨‍🎓 I'm currently working on : To-Do List https://github.com/EzekielUtshudi/To-Do-List
+- 👨‍🎓 I'm currently working on : https://github.com/EzekielUtshudi/Blog_app
 - 👀 I’m interested in Learning new things in the Tech-world
 - 🌱 I’m currently learning Full Stack Web Development with Microverse
 - 💞️ I’m looking to collaborate on open source projects
