@@ -22,3 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857799
 https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857799
+https://www.credential.net/7f28cf98-8332-4a57-98e3-2c0d2dc42e72#gs.bh1pn1
+https://www.credential.net/9a10c340-eaec-4bd4-81c7-11870a261da1#gs.bgyyot
+https://www.credential.net/b196db1b-9695-47b2-b929-f87bd412c6a9#gs.bgyzy9
+https://www.credential.net/b196db1b-9695-47b2-b929-f87bd412c6a9#gs.bgyzy9
+https://www.credential.net/9306a0c2-8f13-441e-a06d-c1a7cb4538c3#gs.bgz2sn
