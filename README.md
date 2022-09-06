@@ -10,7 +10,7 @@ I am currently learning fullstack web development with Microverse  and  enjoying
 - 🌱 I’m currently learning Full Stack Web Development with Microverse
 - 💞️ I’m looking to collaborate on open source projects
 - 😎 Pronoun : He/His
-- 📫 How to reach me : Twitter :https://twitter.com/UtshudiEzekiel || Facebook: https://www.facebook.com/ezekiel.utshudi/ || Linkeddln: https://www.linkedin.com/in/ezekiel-utshudi-195782162/ || Gmail: ezekielutshudi@gmail.com
+- 📫 How to reach me : Twitter :https://twitter.com/UtshudiEzekiel || Portfolio: https://zingy-muffin-ffbe87.netlify.app/# || Linkeddln: https://www.linkedin.com/in/ezekiel-utshudi-195782162/ || Gmail: ezekielutshudi@gmail.com
 
 <!---
 EzekielUtshudi/EzekielUtshudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
