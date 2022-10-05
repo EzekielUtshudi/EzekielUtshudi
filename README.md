@@ -1,7 +1,7 @@
 <strong >Hello there👋 I'm Ezekiel Utshudi</strong>
 
 
-I am a fullstack web development .
+I am a Fullstack Engineer.
 I have experience in front-end Dev and I would like to contribute to open-source projects and new challenges because I believe learning by doing is the best way.
 
 <strong> ABOUT ME :</strong>
