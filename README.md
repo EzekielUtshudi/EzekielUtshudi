@@ -1,4 +1,5 @@
 <strong >Hello there👋 I'm Ezekiel Utshudi</strong>
+![Brown Wood Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/81693905/203963274-6f099dfe-2fcb-424d-bcb0-8e31d08d38d4.png)
 
 
 I am a Fullstack Engineer.
